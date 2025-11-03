@@ -70,9 +70,9 @@ Output formatı:
 - Sistem "ya hepsi ya hiç" mantığıyla çalışır
 - Kısmi yerleştirme yapılmaz
 
-## Teknoloji Stack
+## Teknoloji
 
 - **Frontend**: Streamlit
-- **Backend**: FastAPI
+- **Backend**: Python -> FastAPI
 - **Language**: Python 3.8+
 - **Data Validation**: Pydantic
